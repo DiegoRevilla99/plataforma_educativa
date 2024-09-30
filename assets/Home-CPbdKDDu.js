@@ -1,1 +1,0 @@
-import{j as e,A as o,B as t}from"./index-DjusE7W-.js";import{H as s}from"./HeaderTemplate-DSsV3vu2.js";const i=()=>e.jsxs(o,{children:[e.jsx(s,{}),e.jsx(t,{width:"100%",height:"90dvh",display:"flex",bgcolor:"#f2f2f2",flexDirection:"column"})]});export{i as default};
